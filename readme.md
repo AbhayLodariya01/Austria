@@ -16,5 +16,5 @@ It showcases smooth animations, interactive elements, and modern UI effects desi
 ## 🛠️ Tech Stack  
 - **HTML5** – Structure of the web page.  
 - **CSS3** – Styling and responsiveness.  
-- **GSAP (GreenSock)** – Animations and transitions.  
+- **GSAP (GreenSock)** – Animations and transitions.
 ---
